@@ -32,10 +32,10 @@
 ---
 # ```Scan QR Code```
 
-1. ***Get [SESSION-ID](https://replit.com/@Layefa7/RIKA-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@Looneyffkun/Soul-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/Layefa7/RIKA-MD/fork)***
+2. ***Click [FORK](https://github.com/Godsoulsolos/Soul-MD/fork)***
  
 ---
 
@@ -52,7 +52,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Layefa7/RIKA-MD">
+    <a href="https://repl.it/github/Godsoulsolos/Soul-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -95,7 +95,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Layefa7/RIKA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Soul-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
