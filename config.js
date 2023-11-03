@@ -10,12 +10,12 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/Layefa7/RIKA-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '994408223019'
-global.devs = '994408223019';
-global.website = 'https://github.com/Layefa7/RIKA-MD' //wa.me/+994408223019
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.sudo = process.env.SUDO || '2349070616688'
+global.devs = '2349070616688'
+global.website = 'https://github.com/Godsoulsolos/KIRA-MD' //wa.me/+994408223019
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://camo.githubusercontent.com/189766685580e0c9506f5e5b5b4e7f3063951ea18f665925a10cb3c63e2bd2e5/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351425074693464744c6c6d396c345355414932705a5551704276355f5a5a415257346c6c455a734d4a476c7a5268636e4c704776385065745126733d31302f6f75742e706e67'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'RIKA-MD' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'SOUL-MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'rika' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'rika' : process.env.PACK_INFO.split(";")[0],
