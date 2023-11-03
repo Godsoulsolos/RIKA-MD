@@ -41,7 +41,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@Layefa7/RIKA-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/Layefa7/RIKA-MD/fork)***
+2. ***Click [FORK](https://github.com/Godsoulsolos/KIRA-MD/fork)***
  
 ---
 
@@ -52,11 +52,10 @@
  
    <p align="center">  
   <a href="https://github.com/Godsoulsolos/Soul-MD">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
+    
   </a>
 </p>
-<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Soul-MD">
+<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Kira-MD">
      <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
