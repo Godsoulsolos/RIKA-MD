@@ -22,7 +22,31 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Godsoulsolos}/count.svg" alt="Godsoulsolos :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing SOUL-MD....SOUL-MD is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+  <p align="center"> Introducing SOUL-MD....SOUL-MD is designed to bring a whole new level of excitement to your boring WhatsApp use. </p><p align="right">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Layefa7/RIKA-MD" />
+  </a>
+  
+  
+
+</p>
+
+<p align="center">
+
+</p>
+
+---
+# ```Scan QR Code```
+
+1. ***Get [SESSION-ID](https://replit.com/@Layefa7/RIKA-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
+--- 
+# ```Fork Repo```
+2. ***Click [FORK](https://github.com/Layefa7/RIKA-MD/fork)***
+ 
+---
+
+# THIS TIME  DEPLOY 
+# ```Deployments METHODS```
  
  ***<p align="center"> Support us by forking our bots repo </p>***
  
