@@ -1,14 +1,14 @@
 {
-  "name": "RIKA-MD",
+  "name": "KIRA-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/97de15827fc042644a964.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "rikabot", "Secktor","RIKAMD","theme bot","multi device","baileys","rika"],
+  "logo": "https://images.saymedia-content.com/.image/t_share/MTg2OTMwMTMxNDAxNzEzMTQ0/5-reasons-l-knew-light-was-kira-in-death-note.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA","LUFFY","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "RIKA MENDOSKA"
+      "value": "KIRA YAGAMI"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/97de15827fc042644a964.jpg"
+     "value": "https://images.saymedia-content.com/.image/t_share/MTg2OTMwMTMxNDAxNzEzMTQ0/5-reasons-l-knew-light-was-kira-in-death-note.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "994408223019"
+       "value": "2349070616688"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,RIKA-MD"
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "rika;mendoska",
+     "value": "Kira;Yagami",
      "required": false 
   },
   "heroku": {
