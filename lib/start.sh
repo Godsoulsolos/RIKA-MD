@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting RIKA-MD..."
+echo "Starting KIRA-MD..."
 node lib/client.js
 done
