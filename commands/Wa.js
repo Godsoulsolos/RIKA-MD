@@ -99,7 +99,7 @@ cmd({
         citel.reply(`*Check your DM I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: RIKA-Support*\n*Group Link:* https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS`,
+            caption: `*Group Name: KIRA-Support*\n*Group Link:* https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE`,
         });
 
     }
