@@ -51,11 +51,11 @@
  ***<p align="center"> Support us by forking our bots repo </p>***
  
    <p align="center">  
-  <a href="https://github.com/Godsoulsolos/Soul-MD">
+  <a href="https://github.com/Godsoulsolos/KIRA-MD">
     
   </a>
 </p>
-<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Kira-MD">
+<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/KIRA-MD">
      <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
@@ -147,13 +147,13 @@
 
 ***Free Mongodb URL,LOL***
 mongodb://uufpxy0mfyeykbrxkjpk:m1b0dsDODVFWlBy3AF3@bufirembtiksxw6ni25m-mongodb.services.clever-cloud.com:2533/bufirembtiksxw6ni25m
-13. SOUL-MD SUPPORT GROUP: <a href="https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+13. KIRA-MD SUPPORT GROUP: <a href="https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ repo if you like SOUL-MD.
+- Star ⭐ repo if you like KIRA-MD.
 ### Thanks To
 
 - [GODSOUL](https://github.com/Godsoulsolos) for Ideas
 
 ## License
 
-SOUL-MD is made available under the [GPL-3 license](https://github.com/Godsoulsolos/Soul-MD/blob/main/LICENCE). 
+KIRA-MD is made available under the [GPL-3 license](https://github.com/Godsoulsolos/Soul-MD/blob/main/LICENCE). 
