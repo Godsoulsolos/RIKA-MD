@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Rika-Md
- * @author :  Layefa7 <https://github.com/Layefa7>
- * @description : Rika,A Multi-functional whatsapp bot.
+ * @project_name : KIRA-Md
+ * @author :  Godsoulsolos <https://github.com/Godsoulsolos>
+ * @description : Kira,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -19,7 +19,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,Rika>',
+    use: '<Hii,Kira>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -119,9 +119,9 @@ cmd({
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/Layefa7/RIKA-MD
-│*🏘Group:* https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS
-│*🧑‍💻Deploy RIKA MD*:https://github.com/Layefa7/RIKA-MD
+│*📡 Repo:* https://github.com/Godsoulsolos/KIRA-MD
+│*🏘Group:* https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE
+│*🧑‍💻Deploy KIRA MD*:https://github.com/Godsoulsolos/KIRA-MD
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -203,7 +203,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available themes in RIKA *"
-str+=`1. RIKA\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n these are the themes of RIKA Userbot.\_Reply ${prefix}setvar THEME:GARENA`
+str+=`1. CODM\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n these are the themes of RIKA Userbot.\_Reply ${prefix}setvar THEME:GARENA`
 return citel.reply(str)
     
 }
