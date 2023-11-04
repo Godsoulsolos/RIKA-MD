@@ -211,7 +211,7 @@ cmd({
             pattern: "fancy",
             desc: "Makes stylish/fancy given text",
             category: "converter",
-            use: '46 Rika',
+            use: '46 Kira',
             react: "✅",
             filename: __filename
         },
@@ -220,7 +220,7 @@ cmd({
                 let text = tiny(
                     "Fancy text generator\n\nExample: .fancy 46 Izuku\n\n"
                 );
-                listall("RIKA BOT").forEach((txt, num) => {
+                listall("KIRA BOT").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
